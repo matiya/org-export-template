@@ -1,0 +1,18 @@
+title: "Pandoc and org-mode"
+author: [Assertiva]
+lang: "es"
+toc-own-page: false
+titlepage: true
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "360049"
+titlepage-rule-height: 0
+titlepage-background: "src/background.pdf"
+reference-section-title: References
+figPrefix: "Figure"
+tablePrefix: "Table"
+pandoc-latex-environment:
+  noteblock: [note]
+  tipblock: [tip]
+  warningblock: [warning]
+  cautionblock: [caution]
+  importantblock: [important]
